@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #E3F2C1 !important;
+}
+
+.navbar .navbar-brand {
+    color: #617A55 !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.navbar h6 {
+    margin-top: 0px;
+    margin-right: 20px;
+}
